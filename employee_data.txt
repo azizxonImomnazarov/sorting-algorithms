@@ -1,0 +1,8 @@
+Azizxon  Software Engineer  2020  200
+Lazizxon  CEO  2020  5000
+Kamronbek  Project Manager  2020  1000
+Otabek  CTO  2020  2000
+Javohir  Administrator  2020  1500
+Doston  Head of BD  2020  5000
+Jahongir  Frontend Developer  2020  1000
+Gavhar  HR  2016  10000
